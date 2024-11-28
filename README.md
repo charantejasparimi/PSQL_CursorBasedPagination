@@ -1,4 +1,4 @@
-# CSV File Management App
+# Cursor Based Pagination POSTGRESQL
 
 Project is a simple web application that allows users to upload, view, paginate, and export CSV files in different formats (CSV, PDF). The app is built with a **ReactJS** frontend and **NodeJS** backend, connected to a PostgreSQL database.
 

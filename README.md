@@ -27,38 +27,6 @@ The project contains two main folders:
   - Displays the CSV file content with **cursor-based pagination**.
   - Allows users to export the viewed data either as a **CSV** or **PDF** file.
 
-# CSV File Management App
-
-This project is a simple web application that allows users to upload, view, paginate, and export CSV files in different formats (CSV, PDF). The app is built with a **ReactJS** frontend and **NodeJS** backend, connected to a PostgreSQL database.
-
-## Folder Structure
-
-The project contains two main folders:
-
-- `frontend`: Contains the ReactJS code for the user interface.
-- `backend`: Contains the NodeJS and ExpressJS code for the server-side logic, including database interactions and API routes.
-
-## Frontend
-
-### Technologies Used:
-
-- ReactJS
-- Axios (for HTTP requests)
-- CSS (Tailwind CSS, custom styles)
-
-### Main Components:
-
-- **Upload Component**:
-
-  - Allows users to upload a CSV file to the backend.
-  - Sends the file to the server via a POST request to import it into the PostgreSQL database.
-
-- **View Component**:
-
-  - Displays the CSV file content with **cursor-based pagination**.
-  - Allows users to export the viewed data either as a **CSV** or **PDF** file.
-
-  Install Required dependencies through npm install and run with npm start
 
 # Backend
 
